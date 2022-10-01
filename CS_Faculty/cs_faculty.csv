@@ -1,15 +1,15 @@
-name,url
-        Dr. Hosam  ,https://www.lakeheadu.ca/users/E/hosam/node/17388
-        Dr. Ruizhong  ,https://www.lakeheadu.ca/users/W/rwei/node/48898
-        Dr. Jinan  ,https://www.lakeheadu.ca/users/F/jfiaidhi/node/17390
-        Dr. Sabah  ,https://www.lakeheadu.ca/users/M/mohammed/node/17391
-        Dr. Vijay  ,https://www.lakeheadu.ca/users/M/vmago/node/25295
-        Dr. Salimur  ,https://www.lakeheadu.ca/users/C/schoudhu/node/43504
-        Dr. Zubair  ,https://www.lakeheadu.ca/users/F/zfadlull/node/50708
-        Dr. Thiago E.  ,https://www.lakeheadu.ca/users/A/talvesd/node/52506
-        Dr. Muhammad  ,https://www.lakeheadu.ca/users/A/masaduzz/node/63023
-        Dr. Garima  ,https://www.lakeheadu.ca/users/B/bajwa-garima/node/63024
-        Dr. Amin  ,https://www.lakeheadu.ca/users/S/asafaei/node/64130
-        Dr. Xing  ,https://www.lakeheadu.ca/users/T/xtan27/node/66440
-        Dr. Maurice  ,https://www.lakeheadu.ca/users/B/mwbenson/node/17256
-        Dr. Xiaoxiao (Rachael)  ,https://www.lakeheadu.ca/users/W/xwang152/node/52507
+name,campus,email,url
+        Dr. Hosam  ,Thunder Bay,        hosam@lakeheadu.ca  ,https://www.lakeheadu.ca/users/E/hosam/node/17388
+        Dr. Ruizhong  ,Orillia,        rwei@lakeheadu.ca  ,https://www.lakeheadu.ca/users/W/rwei/node/48898
+        Dr. Jinan  ,Thunder Bay,        jfiaidhi@lakeheadu.ca  ,https://www.lakeheadu.ca/users/F/jfiaidhi/node/17390
+        Dr. Sabah  ,Thunder Bay,        mohammed@lakeheadu.ca  ,https://www.lakeheadu.ca/users/M/mohammed/node/17391
+        Dr. Vijay  ,Thunder Bay,        vmago@lakeheadu.ca  ,https://www.lakeheadu.ca/users/M/vmago/node/25295
+        Dr. Salimur  ,Orillia,        salimur.choudhury@lakeheadu.ca  ,https://www.lakeheadu.ca/users/C/schoudhu/node/43504
+        Dr. Zubair  ,Thunder Bay,        Zubair.Fadlullah@lakeheadu.ca  ,https://www.lakeheadu.ca/users/F/zfadlull/node/50708
+        Dr. Thiago E.  ,Thunder Bay,        talvesd@lakeheadu.ca  ,https://www.lakeheadu.ca/users/A/talvesd/node/52506
+        Dr. Muhammad  ,Thunder Bay,        masaduzz@lakeheadu.ca  ,https://www.lakeheadu.ca/users/A/masaduzz/node/63023
+        Dr. Garima  ,Thunder Bay,        garima.bajwa@lakeheadu.ca  ,https://www.lakeheadu.ca/users/B/bajwa-garima/node/63024
+        Dr. Amin  ,Thunder Bay,        asafaei@lakeheadu.ca  ,https://www.lakeheadu.ca/users/S/asafaei/node/64130
+        Dr. Xing  ,Orillia,        xtan27@lakeheadu.ca  ,https://www.lakeheadu.ca/users/T/xtan27/node/66440
+        Dr. Maurice  ,Thunder Bay,        mwbenson@lakeheadu.ca  ,https://www.lakeheadu.ca/users/B/mwbenson/node/17256
+        Dr. Xiaoxiao (Rachael)  ,Thunder Bay,        grad.compsci@lakeheadu.ca  ,https://www.lakeheadu.ca/users/W/xwang152/node/52507
